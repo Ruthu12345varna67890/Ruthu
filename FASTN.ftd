@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: <Ruthu12345varna67890>.github.io/<Ruthu>
+-- fastn.package: Ruthu12345varna67890.github.io/Ruthu
 favicon: /-/<Ruthu12345varna67890>.github.io/<Ruthu>/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
@@ -12,7 +12,7 @@ favicon: /-/<Ruthu12345varna67890>.github.io/<Ruthu>/favicon.ico
 
 
 
--- fastn.auto-import: <Ruthu12345varna67890>.github.io/<Ruthu>/FASTN/ds
--- fastn.auto-import: <Ruthu12345varna67890>.github.io/<Ruthu>/assets
+-- fastn.auto-import: Ruthu12345varna67890.github.io/Ruthu/FASTN/ds
+-- fastn.auto-import: Ruthu12345varna67890.github.io/Ruthu/assets
 -- fastn.auto-import: doc-site
 
